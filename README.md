@@ -1,10 +1,11 @@
 # awesome-isaac-sim (under construction)
-This is a list some related resources of NVIDIA Isaac Sim, which is inspired by [awesome-isaac-gym](https://github.com/wangcongrobot/awesome-isaac-gym)
+This is a list some related resources of NVIDIA Isaac Sim, which is inspired by [awesome-isaac-gym](https://github.com/wangcongrobot/awesome-isaac-gym).
 
 
-## News
 
 ## Official Resource
+
+[Isaac Lab](https://github.com/isaac-sim/IsaacLab)
 
 [Tutorial for Isaac Sim](https://docs.omniverse.nvidia.com/isaacsim/latest/core_api_tutorials/tutorial_core_hello_world.html)
 
@@ -12,7 +13,37 @@ This is a list some related resources of NVIDIA Isaac Sim, which is inspired by 
 
 [Isaac ROS projects](https://github.com/NVIDIA-ISAAC-ROS)
 
+[RL algorithms: skrl](https://github.com/Toni-SM/skrl)
+
+[rl_games](https://github.com/Denys88/rl_games)
+
+[Unitree Go2, Unitree G1 support for Nvidia Isaac Lab](https://github.com/abizovnuralem/go2_omniverse)
+
+[connect Gazebo to Omniverse](https://github.com/gazebosim/gz-omni)
+
+[MetaGraspNet](https://github.com/maximiliangilles/MetaGraspNet)\
+
+[Orbit-surgical](https://github.com/orbit-surgical/orbit-surgical)
+
+
 ## GTC
+
+- [Sim-to-Real in Isaac Sim](https://www.nvidia.com/en-us/on-demand/session/gtcspring21-s31824/)
+
+- [Bridging Sim2Real Gap: Simulation Tuning for Training Deep Learning Robotic Perception Models](https://www.nvidia.com/en-us/on-demand/session/gtcspring21-s31649/)
+
+- [Reinforcement Learning and Intralogistics: Soft Actor Critic for Maples Navigation in Warehouses](https://www.nvidia.com/en-us/on-demand/session/gtcspring21-e31467/)
+
+- [Building Robotics Applications Using NVIDIA Isaac SDK](https://www.nvidia.com/en-us/on-demand/session/gtcfall20-a21856/)
+
+- [NVIDIA Isaac SIM — Amazing Robot Models and Tasks Simulated in Isaac Sim 2020.1](https://www.nvidia.com/en-us/on-demand/session/gtcsj20-d2s43/)
+
+- [Building Robotics Applications Using NVIDIA Isaac SDK](https://www.nvidia.com/en-us/on-demand/session/gtcfall20-a21856/)
+
+
+- [ISAAC SIM Introduction and Live Demo](https://www.nvidia.com/en-us/on-demand/session/omniverse2020-om1314/)
+
+- [NVIDIA on-demand ISAAC SIM](https://www.nvidia.com/en-us/on-demand/search/?facet.mimetype[]=event%20session&layout=list&page=1&q=isaac%20sim&sort=relevance)
 
 
 ## Papers
