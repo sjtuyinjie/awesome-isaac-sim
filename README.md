@@ -25,6 +25,8 @@ This is a list some related resources of NVIDIA Isaac Sim, which is inspired by 
 
 - [CORL2023] Behavior-1k: A benchmark for embodied ai with 1,000 everyday activities and realistic simulation [[website](https://behavior.stanford.edu/behavior-1k)] [[paper](https://proceedings.mlr.press/v205/li23a/li23a.pdf)][[code](https://github.com/StanfordVL/behavior)]
 
+- [Arxiv2023] RANS: Highly-Parallelised Simulator for Reinforcement Learning based Autonomous Navigating Spacecrafts [[paper](https://arxiv.org/pdf/2310.07393)][[code](https://github.com/elharirymatteo/RANS/)]
+
 
 
 
