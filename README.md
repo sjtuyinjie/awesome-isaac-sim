@@ -1,5 +1,5 @@
 # awesome-isaac-sim (under construction)
-This is a list some related resources of NVIDIA Isaac Sim, which is inspired by [awesome-isaac-gym](https://github.com/wangcongrobot/awesome-isaac-gym). It's noted that currently 
+This is a list some related resources of NVIDIA Isaac Sim, which is inspired by [awesome-isaac-gym](https://github.com/wangcongrobot/awesome-isaac-gym). Notably, due to its lightweight nature and adequate performance, currently Isaac Gym remains more widely used in the RL field. However, the number of researchers using Isaac Sim is also rapidly increasing.
 
 
 
