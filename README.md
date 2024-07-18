@@ -48,6 +48,8 @@ This is a list some related resources of NVIDIA Isaac Sim, which is inspired by 
 
 ## Papers
 
+- [ICRA2024] ORBIT-Surgical: An Open-Simulation Framework for Learning Surgical Augmented Dexterity [[website](https://orbit-surgical.github.io/)] [[paper](https://arxiv.org/abs/2404.16027)] [[code](https://github.com/orbit-surgical/orbit-surgical)]
+
 - [Arxiv2024] GRUtopia: Dream General Robots in a City at Scale [[website](https://grutopia.github.io/)] [[paper](https://arxiv.org/pdf/2407.10943)] [[code](https://github.com/OpenRobotLab/GRUtopia)]
 
 - [Arxiv2024] MultiGripperGrasp: A Dataset for Robotic Grasping from Parallel Jaw Grippers to Dexterous Hands [[website](https://irvlutd.github.io/MultiGripperGrasp/)] [[paper](https://arxiv.org/pdf/2403.09841)] [[code](https://github.com/IRVLUTD/isaac_sim_grasping)]
