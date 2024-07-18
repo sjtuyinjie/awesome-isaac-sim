@@ -21,7 +21,7 @@ This is a list some related resources of NVIDIA Isaac Sim, which is inspired by 
 
 [connect Gazebo to Omniverse](https://github.com/gazebosim/gz-omni)
 
-[MetaGraspNet](https://github.com/maximiliangilles/MetaGraspNet)\
+[MetaGraspNet](https://github.com/maximiliangilles/MetaGraspNet)
 
 [Orbit-surgical](https://github.com/orbit-surgical/orbit-surgical)
 
