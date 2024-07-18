@@ -1,5 +1,5 @@
 # awesome-isaac-sim (under construction)
-This is a list some related resources of NVIDIA Isaac Sim, which is inspired by [awesome-isaac-gym](https://github.com/wangcongrobot/awesome-isaac-gym).
+This is a list some related resources of NVIDIA Isaac Sim, which is inspired by [awesome-isaac-gym](https://github.com/wangcongrobot/awesome-isaac-gym). It's noted that currently 
 
 
 
