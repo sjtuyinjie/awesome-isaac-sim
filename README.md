@@ -87,4 +87,4 @@ This is a list some related resources of NVIDIA Isaac Sim, which is inspired by 
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=SJTU-ViSYS/awesome-isaac-sim&type=Timeline)](https://star-history.com/#Ashutosh00710/github-readme-activity-graph&Timeline)
+[![Star History Chart](https://api.star-history.com/svg?repos=sjtuyinjie/awesome-isaac-sim&type=Timeline)](https://star-history.com/#Ashutosh00710/github-readme-activity-graph&Timeline)
