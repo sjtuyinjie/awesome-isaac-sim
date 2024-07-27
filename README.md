@@ -9,7 +9,8 @@ This is a list some related resources of NVIDIA Isaac Sim, which is inspired by 
 ## 🔥 Papers
 
 
-- [Arxiv2024] https://arxiv.org/pdf/2406.16038 [[website](https://github.com/livescenes/livescenes.github.io)] [[paper](https://arxiv.org/pdf/2406.16038)] [[code](https://github.com/livescenes/livescenes.github.io)]
+- [Arxiv2024] LiveScene: Language Embedding Interactive Radiance Fields for Physical Scene Rendering and Control
+ [[website](https://github.com/livescenes/livescenes.github.io)] [[paper](https://arxiv.org/pdf/2406.16038)] [[code](https://github.com/livescenes/livescenes.github.io)]
 
 - [ICRA2024] ORBIT-Surgical: An Open-Simulation Framework for Learning Surgical Augmented Dexterity [[website](https://orbit-surgical.github.io/)] [[paper](https://arxiv.org/abs/2404.16027)] [[code](https://github.com/orbit-surgical/orbit-surgical)]
 
