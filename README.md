@@ -8,6 +8,9 @@ This is a list some related resources of NVIDIA Isaac Sim, which is inspired by 
 
 ## 🔥 Papers
 
+
+- [Arxiv2024] https://arxiv.org/pdf/2406.16038 [[website](https://github.com/livescenes/livescenes.github.io)] [[paper](https://arxiv.org/pdf/2406.16038)] [[code](https://github.com/livescenes/livescenes.github.io)]
+
 - [ICRA2024] ORBIT-Surgical: An Open-Simulation Framework for Learning Surgical Augmented Dexterity [[website](https://orbit-surgical.github.io/)] [[paper](https://arxiv.org/abs/2404.16027)] [[code](https://github.com/orbit-surgical/orbit-surgical)]
 
 - [Arxiv2024] GRUtopia: Dream General Robots in a City at Scale [[website](https://grutopia.github.io/)] [[paper](https://arxiv.org/pdf/2407.10943)] [[code](https://github.com/OpenRobotLab/GRUtopia)]
