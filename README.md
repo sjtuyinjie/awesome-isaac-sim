@@ -9,6 +9,10 @@ This is a list some related resources of NVIDIA Isaac Sim, which is inspired by 
 ## 🔥 Papers
 
 
+- [CVPR2024] LiveScene: Language Embedding Interactive Radiance Fields for Physical Scene Rendering and Control
+ [[website](BEHAVIOR Vision Suite: Customizable Dataset Generation via Simulation)] [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Ge_BEHAVIOR_Vision_Suite_Customizable_Dataset_Generation_via_Simulation_CVPR_2024_paper.pdf)] [[code](https://github.com/behavior-vision-suite/behavior-vision-suite.github.io)]
+
+
 - [Arxiv2024] LiveScene: Language Embedding Interactive Radiance Fields for Physical Scene Rendering and Control
  [[website](https://github.com/livescenes/livescenes.github.io)] [[paper](https://arxiv.org/pdf/2406.16038)] [[code](https://github.com/livescenes/livescenes.github.io)]
 
