@@ -1,4 +1,4 @@
-# Awesome Isaac Sim (Under Construction)
+# Awesome Isaac Sim (Uupdating!)
 
 ## 📝 Introduction
 
