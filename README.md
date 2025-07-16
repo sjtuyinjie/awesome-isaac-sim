@@ -6,6 +6,11 @@ This is a list some related resources of NVIDIA Isaac Sim, which is inspired by 
 **If your work on Isaac Sim is accepted to top conferences or transactions, welcome to propose a issue or pull a request to remind me of updating your work!**
 
 
+## Contribute to this list
+
+We encourage you to add your IsaacSim-related work to this list! You can 
+- **Submit a Pull Request to contribute new algorithms, configuration files, or improvements via Github [Pull Request](https://github.com/sjtuyinjie/Awesome-Grasp-List/pulls) to post your paper and code**.
+
 ## 🔥 Papers
 
 
