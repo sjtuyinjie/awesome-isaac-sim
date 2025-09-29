@@ -2,106 +2,90 @@
 
 ## 📝 Introduction
 
-This is a list some related resources of NVIDIA Isaac Sim, which is inspired by [awesome-isaac-gym](https://github.com/wangcongrobot/awesome-isaac-gym). The development progress is: Isaac Gym-->Isaac Sim-->Orbit-->Isaac Lab, where the latter two are built based on Isaac Sim. Notably, due to its lightweight nature and adequate performance, currently Isaac Gym remains more widely used in the RL field. However, the number of researchers using Isaac Sim is also rapidly increasing. If this project is helpful for your research, please give me a star and fork, thanks!
-**If your work on Isaac Sim is accepted to top conferences or transactions, welcome to propose a issue or pull a request to remind me of updating your work!**
-
+This is a list of resources related to NVIDIA Isaac Sim, inspired by [awesome-isaac-gym](https://github.com/wangcongrobot/awesome-isaac-gym).  
+The development progression is: Isaac Gym → Isaac Sim → Orbit → Isaac Lab, where the latter two are built on Isaac Sim.  
+Because Isaac Gym is lightweight and efficient, it is still widely used in RL research, but Isaac Sim’s ecosystem and adoption are growing rapidly.  
+If this list helps your research, please give it a star and fork!  
+**If your Isaac Sim–based work is accepted at top conferences or journals, feel free to open an issue or pull request to update this list.**
 
 ## Contribute to this list
 
-We encourage you to add your IsaacSim-related work to this list! You can 
-- **Submit a Pull Request to contribute new algorithms, configuration files, or improvements via Github [Pull Request](https://github.com/sjtuyinjie/Awesome-Grasp-List/pulls) to post your paper and code**.
+We encourage you to add your Isaac Sim–related work to this list! You can  
+- **Submit a Pull Request** to include new algorithms, environment configs, benchmarks, etc.
 
-## 🔥 Papers
+## 🔥 Papers & Research using Isaac Sim / Isaac Lab / Omniverse Isaac
 
+- [“Towards Building AI-CPS with NVIDIA Isaac Sim: An Industrial Benchmark and Case Study for Robotics Manipulation” (2023)](https://arxiv.org/abs/2308.00055) — proposes a public robotics manipulation benchmark built on Omniverse Isaac Sim, with multiple tasks and AI controller evaluation. :contentReference[oaicite:0]{index=0}  
+- [“GRADE: Generating Realistic and Dynamic Environments for Robotics Research with Isaac Sim” (2023)](https://arxiv.org/abs/2303.04466) — presents GRADE, a framework built on Isaac Sim to generate dynamic environments, synthetic datasets, and repeatable experiments. :contentReference[oaicite:1]{index=1}  
+- [“Orbit: A Unified Simulation Framework for Interactive Robot Learning Environments” (2023)](https://arxiv.org/abs/2301.04195) — a simulation framework built on Isaac Sim with benchmark tasks, sensor modalities, and learning wrappers. :contentReference[oaicite:2]{index=2}  
+- [“Sim-to-Real gap in RL: Use Case with TIAGo and Isaac Sim / Isaac Gym” (2024)](https://arxiv.org/abs/2403.07091) — explores sim-to-real transfer using TIAGo manipulator in both Isaac Sim and Isaac Gym. :contentReference[oaicite:3]{index=3}  
+- [“Mind and Motion Aligned: A Joint Evaluation IsaacSim Benchmark for Task Planning and Low-Level Policies in Mobile Manipulation” (2025)](https://arxiv.org/abs/2508.15663) — proposes Kitchen-R benchmark built with Isaac Sim, combining high-level planning and low-level control in mobile manipulation. :contentReference[oaicite:4]{index=4}  
+- [“Automation in Unstructured Production Environments Using Isaac Sim”](https://www.sciencedirect.com/science/article/pii/S2212827124013301) — applies Isaac Sim for industrial robot automation in complex real-world manufacturing scenarios. :contentReference[oaicite:5]{index=5}  
+- “Robotics Simulation – A Comparison of Two State-of-the-Art Solutions” (2022) — compares Gazebo vs Isaac Sim for mobile robots / sensors / ROS integration. :contentReference[oaicite:6]{index=6}  
 
-- [CVPR2024] BEHAVIOR Vision Suite: Customizable Dataset Generation via Simulation
- [[website](https://behavior-vision-suite.github.io/)] [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Ge_BEHAVIOR_Vision_Suite_Customizable_Dataset_Generation_via_Simulation_CVPR_2024_paper.pdf)] [[code](https://github.com/behavior-vision-suite/behavior-vision-suite.github.io)]
-
-
-- [Arxiv2024] LiveScene: Language Embedding Interactive Radiance Fields for Physical Scene Rendering and Control
- [[website](https://github.com/livescenes/livescenes.github.io)] [[paper](https://arxiv.org/pdf/2406.16038)] [[code](https://github.com/livescenes/livescenes.github.io)]
-
-- [ICRA2024] ORBIT-Surgical: An Open-Simulation Framework for Learning Surgical Augmented Dexterity [[website](https://orbit-surgical.github.io/)] [[paper](https://arxiv.org/abs/2404.16027)] [[code](https://github.com/orbit-surgical/orbit-surgical)]
-
-- [Arxiv2024] InfiniteWorld: A Unified Scalable Simulation Framework for General Visual-Language Robot Interaction [[paper](https://arxiv.org/pdf/2412.05789)] [[code](https://github.com/pzhren/InfiniteWorld)]
-
-- [Arxiv2024] M2Diffuser: Diffusion-based Trajectory Optimization for Mobile Manipulation in 3D Scenes [[website](https://m2diffuser.github.io/)] [[paper](https://arxiv.org/pdf/2410.11402)]
-
-- [Arxiv2024] GRUtopia: Dream General Robots in a City at Scale [[website](https://grutopia.github.io/)] [[paper](https://arxiv.org/pdf/2407.10943)] [[code](https://github.com/OpenRobotLab/GRUtopia)]
-
-- [Arxiv2024] MultiGripperGrasp: A Dataset for Robotic Grasping from Parallel Jaw Grippers to Dexterous Hands [[website](https://irvlutd.github.io/MultiGripperGrasp/)] [[paper](https://arxiv.org/pdf/2403.09841)] [[code](https://github.com/IRVLUTD/isaac_sim_grasping)]
-
-- [Arxiv2023] Less Is More: Robust Robot Learning via Partially Observable Multi-Agent Reinforcement Learning [[paper](https://arxiv.org/pdf/2309.14792)] [[code](https://github.com/TIERS/isaac-marl-mobile-manipulation)]
-
-- [ICCV2023] ARNOLD: A benchmark for language-grounded task learning with continuous states in realistic 3D scenes [[website](https://arnold-benchmark.github.io/)] [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Gong_ARNOLD_A_Benchmark_for_Language-Grounded_Task_Learning_with_Continuous_States_ICCV_2023_paper.pdf)] [[code](https://github.com/arnold-benchmark/arnold)]
-
-- [RAL2023] Orbit: A unified simulation framework for interactive robot learning environments [[website](https://isaac-orbit.github.io/)] [[paper](https://arxiv.org/pdf/2301.04195)][[code](https://github.com/isaac-sim/IsaacLab)]
-
-- [CORL2023] Behavior-1k: A benchmark for embodied ai with 1,000 everyday activities and realistic simulation [[website](https://behavior.stanford.edu/behavior-1k)] [[paper](https://proceedings.mlr.press/v205/li23a/li23a.pdf)][[code](https://github.com/StanfordVL/behavior)]
-
-- [Arxiv2023] RANS: Highly-Parallelised Simulator for Reinforcement Learning based Autonomous Navigating Spacecrafts [[paper](https://arxiv.org/pdf/2310.07393)][[code](https://github.com/elharirymatteo/RANS/)]
-
-
+---
 
 ## 🚩 Official Resource
 
-[Isaac Lab](https://github.com/isaac-sim/IsaacLab)
-
-[Tutorial for Isaac Sim](https://docs.omniverse.nvidia.com/isaacsim/latest/core_api_tutorials/tutorial_core_hello_world.html)
-
-[omniIsaacSimEnvs](https://github.com/isaac-sim/OmniIsaacGymEnvs)
-
-[Isaac ROS projects](https://github.com/NVIDIA-ISAAC-ROS)
-
-[RL algorithms: skrl](https://github.com/Toni-SM/skrl)
-
-[rl_games](https://github.com/Denys88/rl_games)
-
-[Unitree Go2, Unitree G1 support for Nvidia Isaac Lab](https://github.com/abizovnuralem/go2_omniverse)
-
-[connect Gazebo to Omniverse](https://github.com/gazebosim/gz-omni)
-
-[MetaGraspNet](https://github.com/maximiliangilles/MetaGraspNet)
-
+[Isaac Lab](https://github.com/isaac-sim/IsaacLab)  
+[Tutorial for Isaac Sim](https://docs.omniverse.nvidia.com/isaacsim/latest/core_api_tutorials/tutorial_core_hello_world.html)  
+[omniIsaacSimEnvs](https://github.com/isaac-sim/OmniIsaacGymEnvs)  
+[Isaac ROS projects](https://github.com/NVIDIA-ISAAC-ROS)  
+[RL algorithms: skrl](https://github.com/Toni-SM/skrl)  
+[rl_games](https://github.com/Denys88/rl_games)  
+[Unitree Go2, Unitree G1 support for Nvidia Isaac Lab](https://github.com/abizovnuralem/go2_omniverse)  
+[connect Gazebo to Omniverse](https://github.com/gazebosim/gz-omni)  
+[MetaGraspNet](https://github.com/maximiliangilles/MetaGraspNet)  
 [Orbit-surgical](https://github.com/orbit-surgical/orbit-surgical)
 
+---
 
-## 🎯 GTC
+## 🔧 Community Projects & Extensions (selected, star ≥ 20)
 
-- [Sim-to-Real in Isaac Sim](https://www.nvidia.com/en-us/on-demand/session/gtcspring21-s31824/)
+- [IsaacSim](https://github.com/isaac-sim/IsaacSim) — NVIDIA Isaac Sim core repo.  
+  ![GitHub stars](https://img.shields.io/github/stars/isaac-sim/IsaacSim?style=social) :contentReference[oaicite:7]{index=7}  
+- [IsaacLab](https://github.com/isaac-sim/IsaacLab) — unified robot learning framework built on Isaac Sim.  
+  ![GitHub stars](https://img.shields.io/github/stars/isaac-sim/IsaacLab?style=social) :contentReference[oaicite:8]{index=8}  
+- [IsaacGymEnvs](https://github.com/isaac-sim/IsaacGymEnvs) — RL environment collection for Isaac Gym / Isaac Sim.  
+  ![GitHub stars](https://img.shields.io/github/stars/isaac-sim/IsaacGymEnvs?style=social) :contentReference[oaicite:9]{index=9}  
+- [OmniIsaacGymEnvs](https://github.github.io/isaac-sim/OmniIsaacGymEnvs) — RL examples built on Isaac Sim (omni.isaac core/gym).  
+  ![GitHub stars](https://img.shields.io/github/stars/isaac-sim/OmniIsaacGymEnvs?style=social) :contentReference[oaicite:10]{index=10}  
+- [IsaacSim-ros_workspaces](https://github.com/isaac-sim/IsaacSim-ros_workspaces) — ROS/ROS2 workspaces integrated with Isaac Sim.  
+  ![GitHub stars](https://img.shields.io/github/stars/isaac-sim/IsaacSim-ros_workspaces?style=social) :contentReference[oaicite:11]{index=11}  
+- [isaac-launchable](https://github.com/isaac-sim/isaac-launchable) — pre-configured Isaac Sim / Isaac Lab environment via Brev Launchable.  
+  ![GitHub stars](https://img.shields.io.github/stars/isaac-sim/isaac-launchable?style=social) :contentReference[oaicite:12]{index=12}  
+- [isaacsim-app-template](https://github.com/isaac-sim/isaacsim-app-template) — template for building Isaac Sim Kit apps / extensions.  
+  ![GitHub stars](https://img.shields.io/github/stars/isaac-sim/isaacsim-app-template?style=social) :contentReference[oaicite:13]{index=13}  
+- [IsaacAutomator](https://github.com/isaac-sim/IsaacAutomator) — tools to deploy Isaac Sim / Isaac Lab to cloud environments.  
+  ![GitHub stars](https://img.shields.io/github/stars/isaac-sim/IsaacAutomator?style=social) :contentReference[oaicite:14]{index=14}  
+- [MetaToolEU/MT_Isaac_sim](https://github.com/MetaToolEU/MT_Isaac_sim) — simulating dual UR arms in Isaac Sim with MPC, collision avoidance, path planning.  
+  ![GitHub stars](https://img.shields.io/github/stars/MetaToolEU/MT_Isaac_sim?style=social) :contentReference[oaicite:15]{index=15}  
+- [MuammerBay/isaac_so_arm101](https://github.com/MuammerBay/isaac_so_arm101) — task environment projects for SO-ARM100 / SO-ARM101 using Isaac Lab / Isaac Sim.  
+  ![GitHub stars](https://img.shields.io/github/stars/MuammerBay/isaac_so_arm101?style=social) :contentReference[oaicite:16]{index=16}  
+- [agilexrobotics/Limo-Isaac-Sim](https://github.com/agilexrobotics/Limo-Isaac-Sim) — integration of LIMO mobile robot URDF into Isaac Sim.  
+  ![GitHub stars](https://img.shields.io/github/stars/agilexrobotics/Limo-Isaac-Sim?style=social) :contentReference[oaicite:17]{index=17}  
+- [unitreerobotics/unitree_sim_isaaclab](https://github.com/unitreerobotics/unitree_sim_isaaclab) — Unitree robot simulation in Isaac Lab / Isaac Sim.  
+  ![GitHub stars](https://img.shields.io/github/stars/unitreerobotics/unitree_sim_isaaclab?style=social) :contentReference[oaicite:18]{index=18}  
+- [unitreerobotics/unitree_rl_lab](https://github.com/unitreerobotics/unitree_rl_lab) — RL algorithms/environment for Unitree robots using Isaac Lab / Isaac Sim.  
+  ![GitHub stars](https://img.shields.io/github/stars/unitreerobotics/unitree_rl_lab?style=social) :contentReference[oaicite:19]{index=19}  
+- [abizovnuralem/go2_omniverse](https://github.com/abizovnuralem/go2_omniverse) — support for Unitree Go2 / G1 in Nvidia Isaac Lab / Sim (digital-twin, ROS2).  
+  ![GitHub stars](https://img.shields.io/github/stars/abizovnuralem/go2_omniverse?style=social) :contentReference[oaicite:20]{index=20}  
+- [j3soon/OmniIsaacGymEnvs-UR10Reacher](https://github.com/j3soon/OmniIsaacGymEnvs-UR10Reacher) — UR10 reacher RL example built on Isaac Sim / omni.gym.  
+  ![GitHub stars](https://img.shields.io/github/stars/j3soon/OmniIsaacGymEnvs-UR10Reacher?style=social) :contentReference[oaicite:21]{index=21}  
 
-- [Bridging Sim2Real Gap: Simulation Tuning for Training Deep Learning Robotic Perception Models](https://www.nvidia.com/en-us/on-demand/session/gtcspring21-s31649/)
+---
 
-- [Reinforcement Learning and Intralogistics: Soft Actor Critic for Maples Navigation in Warehouses](https://www.nvidia.com/en-us/on-demand/session/gtcspring21-e31467/)
+## ⭐ Related awesome lists
 
-- [Building Robotics Applications Using NVIDIA Isaac SDK](https://www.nvidia.com/en-us/on-demand/session/gtcfall20-a21856/)
-
-- [NVIDIA Isaac SIM — Amazing Robot Models and Tasks Simulated in Isaac Sim 2020.1](https://www.nvidia.com/en-us/on-demand/session/gtcsj20-d2s43/)
-
-- [Building Robotics Applications Using NVIDIA Isaac SDK](https://www.nvidia.com/en-us/on-demand/session/gtcfall20-a21856/)
-
-
-- [ISAAC SIM Introduction and Live Demo](https://www.nvidia.com/en-us/on-demand/session/omniverse2020-om1314/)
-
-- [NVIDIA on-demand ISAAC SIM](https://www.nvidia.com/en-us/on-demand/search/?facet.mimetype[]=event%20session&layout=list&page=1&q=isaac%20sim&sort=relevance)
-
-
-
-## ⭐️ Related awesome lists
-
-- [awesome-wheel-slam](https://github.com/sjtuyinjie/awesome-wheel-slam)
-- [awesome-LiDAR-Visual-SLAM](https://github.com/sjtuyinjie/awesome-LiDAR-Visual-SLAM)
-- [awesome-LiDAR-Camera-Calibration](https://github.com/Deephome/Awesome-LiDAR-Camera-Calibration)
-- [awesome-SLAM](https://github.com/SilenceOverflow/Awesome-SLAM)
-- [awesome-SLAM-datasets](https://github.com/youngguncho/awesome-slam-datasets)
-- [Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)
-- [awesome-humanoid-learning](https://github.com/jonyzhang2023/awesome-humanoid-learning)
-- [awesome-isaac-gym](https://github.com/wangcongrobot/awesome-isaac-gym)
-- [Awesome-Quadrupedal-Robots](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots)
-- [Awesome-Robot-Descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions)
-- [awesome-legged-locomotion-learning](https://github.com/gaiyi7788/awesome-legged-locomotion-learning)
-
+- [awesome-wheel-slam](https://github.com/sjtuyinjie/awesome-wheel-slam)  
+- [awesome-LiDAR-Visual-SLAM](https://github.com/sjtuyinjie/awesome-LiDAR-Visual-SLAM)  
+- [awesome-LiDAR-Camera-Calibration](https://github.com/Deephome/Awesome-LiDAR-Camera-Calibration)  
+- [awesome-SLAM](https://github.com/SilenceOverflow/Awesome-SLAM)  
+- [awesome-SLAM-datasets](https://github.com/youngguncho/awesome-slam-datasets)  
+- [Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)  
+- [awesome-humanoid-learning](https://github.com/jonyzhang2023/awesome-humanoid-learning)  
+- [awesome-isaac-gym](https://github.com/wangcongrobot/awesome-isaac-gym)  
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=sjtuyinjie/awesome-isaac-sim&type=Timeline)](https://star-history.com/#Ashutosh00710/github-readme-activity-graph&Timeline)
+[![Star History Chart](https://api.star-history.com/svg?repos=sjtuyinjie/awesome-isaac-sim&type=Timeline)](https://star-history.com/#sjtuyinjie/awesome-isaac-sim&Timeline)
