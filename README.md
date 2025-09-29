@@ -43,35 +43,35 @@ We encourage you to add your Isaac Sim–related work to this list! You can
 ## 🔧 Community Projects & Extensions (selected, star ≥ 20)
 
 - [IsaacSim](https://github.com/isaac-sim/IsaacSim) — NVIDIA Isaac Sim core repo.  
-  ![GitHub stars](https://img.shields.io/github/stars/isaac-sim/IsaacSim?style=social) :contentReference[oaicite:7]{index=7}  
+  ![GitHub stars](https://img.shields.io/github/stars/isaac-sim/IsaacSim?style=social) 
 - [IsaacLab](https://github.com/isaac-sim/IsaacLab) — unified robot learning framework built on Isaac Sim.  
-  ![GitHub stars](https://img.shields.io/github/stars/isaac-sim/IsaacLab?style=social) :contentReference[oaicite:8]{index=8}  
+  ![GitHub stars](https://img.shields.io/github/stars/isaac-sim/IsaacLab?style=social)
 - [IsaacGymEnvs](https://github.com/isaac-sim/IsaacGymEnvs) — RL environment collection for Isaac Gym / Isaac Sim.  
-  ![GitHub stars](https://img.shields.io/github/stars/isaac-sim/IsaacGymEnvs?style=social) :contentReference[oaicite:9]{index=9}  
+  ![GitHub stars](https://img.shields.io/github/stars/isaac-sim/IsaacGymEnvs?style=social) 
 - [OmniIsaacGymEnvs](https://github.github.io/isaac-sim/OmniIsaacGymEnvs) — RL examples built on Isaac Sim (omni.isaac core/gym).  
-  ![GitHub stars](https://img.shields.io/github/stars/isaac-sim/OmniIsaacGymEnvs?style=social) :contentReference[oaicite:10]{index=10}  
+  ![GitHub stars](https://img.shields.io/github/stars/isaac-sim/OmniIsaacGymEnvs?style=social) 
 - [IsaacSim-ros_workspaces](https://github.com/isaac-sim/IsaacSim-ros_workspaces) — ROS/ROS2 workspaces integrated with Isaac Sim.  
-  ![GitHub stars](https://img.shields.io/github/stars/isaac-sim/IsaacSim-ros_workspaces?style=social) :contentReference[oaicite:11]{index=11}  
+  ![GitHub stars](https://img.shields.io/github/stars/isaac-sim/IsaacSim-ros_workspaces?style=social) 
 - [isaac-launchable](https://github.com/isaac-sim/isaac-launchable) — pre-configured Isaac Sim / Isaac Lab environment via Brev Launchable.  
-  ![GitHub stars](https://img.shields.io.github/stars/isaac-sim/isaac-launchable?style=social) :contentReference[oaicite:12]{index=12}  
+  ![GitHub stars](https://img.shields.io.github/stars/isaac-sim/isaac-launchable?style=social) 
 - [isaacsim-app-template](https://github.com/isaac-sim/isaacsim-app-template) — template for building Isaac Sim Kit apps / extensions.  
-  ![GitHub stars](https://img.shields.io/github/stars/isaac-sim/isaacsim-app-template?style=social) :contentReference[oaicite:13]{index=13}  
+  ![GitHub stars](https://img.shields.io/github/stars/isaac-sim/isaacsim-app-template?style=social)
 - [IsaacAutomator](https://github.com/isaac-sim/IsaacAutomator) — tools to deploy Isaac Sim / Isaac Lab to cloud environments.  
-  ![GitHub stars](https://img.shields.io/github/stars/isaac-sim/IsaacAutomator?style=social) :contentReference[oaicite:14]{index=14}  
+  ![GitHub stars](https://img.shields.io/github/stars/isaac-sim/IsaacAutomator?style=social) 
 - [MetaToolEU/MT_Isaac_sim](https://github.com/MetaToolEU/MT_Isaac_sim) — simulating dual UR arms in Isaac Sim with MPC, collision avoidance, path planning.  
-  ![GitHub stars](https://img.shields.io/github/stars/MetaToolEU/MT_Isaac_sim?style=social) :contentReference[oaicite:15]{index=15}  
+  ![GitHub stars](https://img.shields.io/github/stars/MetaToolEU/MT_Isaac_sim?style=social) 
 - [MuammerBay/isaac_so_arm101](https://github.com/MuammerBay/isaac_so_arm101) — task environment projects for SO-ARM100 / SO-ARM101 using Isaac Lab / Isaac Sim.  
-  ![GitHub stars](https://img.shields.io/github/stars/MuammerBay/isaac_so_arm101?style=social) :contentReference[oaicite:16]{index=16}  
+  ![GitHub stars](https://img.shields.io/github/stars/MuammerBay/isaac_so_arm101?style=social) 
 - [agilexrobotics/Limo-Isaac-Sim](https://github.com/agilexrobotics/Limo-Isaac-Sim) — integration of LIMO mobile robot URDF into Isaac Sim.  
-  ![GitHub stars](https://img.shields.io/github/stars/agilexrobotics/Limo-Isaac-Sim?style=social) :contentReference[oaicite:17]{index=17}  
+  ![GitHub stars](https://img.shields.io/github/stars/agilexrobotics/Limo-Isaac-Sim?style=social) 
 - [unitreerobotics/unitree_sim_isaaclab](https://github.com/unitreerobotics/unitree_sim_isaaclab) — Unitree robot simulation in Isaac Lab / Isaac Sim.  
-  ![GitHub stars](https://img.shields.io/github/stars/unitreerobotics/unitree_sim_isaaclab?style=social) :contentReference[oaicite:18]{index=18}  
+  ![GitHub stars](https://img.shields.io/github/stars/unitreerobotics/unitree_sim_isaaclab?style=social) 
 - [unitreerobotics/unitree_rl_lab](https://github.com/unitreerobotics/unitree_rl_lab) — RL algorithms/environment for Unitree robots using Isaac Lab / Isaac Sim.  
-  ![GitHub stars](https://img.shields.io/github/stars/unitreerobotics/unitree_rl_lab?style=social) :contentReference[oaicite:19]{index=19}  
+  ![GitHub stars](https://img.shields.io/github/stars/unitreerobotics/unitree_rl_lab?style=social) 
 - [abizovnuralem/go2_omniverse](https://github.com/abizovnuralem/go2_omniverse) — support for Unitree Go2 / G1 in Nvidia Isaac Lab / Sim (digital-twin, ROS2).  
-  ![GitHub stars](https://img.shields.io/github/stars/abizovnuralem/go2_omniverse?style=social) :contentReference[oaicite:20]{index=20}  
+  ![GitHub stars](https://img.shields.io/github/stars/abizovnuralem/go2_omniverse?style=social) 
 - [j3soon/OmniIsaacGymEnvs-UR10Reacher](https://github.com/j3soon/OmniIsaacGymEnvs-UR10Reacher) — UR10 reacher RL example built on Isaac Sim / omni.gym.  
-  ![GitHub stars](https://img.shields.io/github/stars/j3soon/OmniIsaacGymEnvs-UR10Reacher?style=social) :contentReference[oaicite:21]{index=21}  
+  ![GitHub stars](https://img.shields.io/github/stars/j3soon/OmniIsaacGymEnvs-UR10Reacher?style=social)
 
 ---
 
