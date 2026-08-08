@@ -88,4 +88,11 @@ We encourage you to add your Isaac Sim–related work to this list! You can
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=sjtuyinjie/awesome-isaac-sim&type=Timeline)](https://star-history.com/#sjtuyinjie/awesome-isaac-sim&Timeline)
+
+<a href="https://www.star-history.com/?repos=sjtuyinjie%2Fawesome-isaac-sim&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=sjtuyinjie/awesome-isaac-sim&type=date&theme=dark&legend=top-left&sealed_token=Uwc8jQBjLpS0ki1uPjIpYixhl9t5B9UbinNfjCCpQGVUEAaW1kwzVuVMAIRhARuxZu-hixedWFbVOK7Elope7SGgNejk5wQoAMlhNU2dJpy5fFvZ2MZXT0UKTBPEnLVMQPdYXWIRbjdhJji4Jj09fYxiKkSPtab_-FjVfRQFvYhuyuVTuoO9dbZN85ip" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=sjtuyinjie/awesome-isaac-sim&type=date&legend=top-left&sealed_token=Uwc8jQBjLpS0ki1uPjIpYixhl9t5B9UbinNfjCCpQGVUEAaW1kwzVuVMAIRhARuxZu-hixedWFbVOK7Elope7SGgNejk5wQoAMlhNU2dJpy5fFvZ2MZXT0UKTBPEnLVMQPdYXWIRbjdhJji4Jj09fYxiKkSPtab_-FjVfRQFvYhuyuVTuoO9dbZN85ip" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=sjtuyinjie/awesome-isaac-sim&type=date&legend=top-left&sealed_token=Uwc8jQBjLpS0ki1uPjIpYixhl9t5B9UbinNfjCCpQGVUEAaW1kwzVuVMAIRhARuxZu-hixedWFbVOK7Elope7SGgNejk5wQoAMlhNU2dJpy5fFvZ2MZXT0UKTBPEnLVMQPdYXWIRbjdhJji4Jj09fYxiKkSPtab_-FjVfRQFvYhuyuVTuoO9dbZN85ip" />
+ </picture>
+</a>
